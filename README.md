@@ -1,4 +1,4 @@
-
+![git](https://github.com/MihirLodaya/MihirLodaya/assets/154822670/dc10e724-23f9-48cc-9c54-7e900a4d861e)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-lodaya-8b1281252) 
 

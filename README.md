@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MihirLodaya/MihirLodaya/assets/154822670/dc10e724-23f9-48cc-9c54-7e900a4d861e" style="width: 700px; height: 300px;">
+  <img src="https://github.com/MihirLodaya/MihirLodaya/assets/154822670/dc10e724-23f9-48cc-9c54-7e900a4d861e" style="width: 650px; height: 300px;">
 </p>
 
 ## 🌐 Socials:
